@@ -4,7 +4,7 @@ clear
 echo -e "\e[0m                                                   "
 echo -e "\e[94m[][][]======================================[][][]"
 echo -e "\e[0m                                                   "
-echo -e "\e[93m           AutoScriptVPS by  Hiratechi           "
+echo -e "\e[93m           AutoScriptVPS by  RadzVPN              "
 echo -e "\e[0m                                                   "
 echo -e "\e[93m            [1]  Create"
 echo -e "\e[93m            [2]  Create Random"
