@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script by : Hiratechi
+# Script by : RadzVPN
 #!/bin/bash
 clear
 fi
