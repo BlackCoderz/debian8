@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script by : Hiratechi
+# Script by : RadzVPN
 clear
 echo -e "\e[0m                                                   "
 echo -e "\e[94m[][][]======================================[][][]"
