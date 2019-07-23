@@ -4,7 +4,7 @@ clear
 echo -e "\e[0m                                                   "
 echo -e "\e[94m[][][]======================================[][][]"
 echo -e "\e[0m                                                   "
-echo -e "\e[93m           AutoScriptVPS by  Hiratechi           "
+echo -e "\e[93m           AutoScriptVPS by  RadzVPN         "
 echo -e "\e[0m                                                   "
 read -p "         Username       :  " User
 egrep "^$User" /etc/passwd >/dev/null
@@ -23,7 +23,7 @@ clear
 echo -e "\e[0m                                                   "
 echo -e "\e[94m[][][]======================================[][][]"
 echo -e "\e[0m                                                   "
-echo -e "\e[93m           AutoScriptVPS by  Hiratechi           "
+echo -e "\e[93m           AutoScriptVPS by  RadzVPN         "
 echo -e "\e[0m                                                   "
 echo -e "         Username        :  $User"
 echo -e "         Days Added      :  $Days Days"
@@ -35,7 +35,7 @@ clear
 echo -e "\e[0m                                                   "
 echo -e "\e[94m[][][]======================================[][][]"
 echo -e "\e[0m                                                   "
-echo -e "\e[93m           AutoScriptVPS by  Hiratechi           "
+echo -e "\e[93m           AutoScriptVPS by  RadzVPN         "
 echo -e "\e[0m                                                   "
 echo -e "\e[93m              Username Doesnt Exist               "
 echo -e "\e[0m                                                   "
