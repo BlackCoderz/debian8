@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script by : Hiratechi
+# Script by : RadzVPN
 rm -f /root/opensshport
 rm -f /root/dropbearport
 rm -f /root/stunnel4port
