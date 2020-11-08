@@ -112,7 +112,6 @@ cd
 # Restart OpenVPN
 /etc/init.d/openvpn restart
 service openvpn start
-service openvpn status
 
 # Setting USW
 apt-get install ufw
@@ -124,7 +123,6 @@ cd /etc/ufw/
 wget "https://github.com/radzvpn/Deb9VPS-by-Hira/blob/master/Files/OpenVPN/before.rules"
 cd
 ufw enable
-ufw status
 
 # set ipv4 forward
 echo 1 > /proc/sys/net/ipv4/ip_forward
