@@ -370,6 +370,7 @@ echo "*0 */2 * * * root clearcache" > /etc/cron.d/clearcache
 
 # Set Permissions
 cd /usr/bin
+chmod +x menu
 chmod +x create
 chmod +x accounts
 chmod +x create
